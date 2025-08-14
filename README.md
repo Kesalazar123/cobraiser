@@ -1,2 +1,1 @@
-# cobraiser
-repositorio de prueba 
+proyecto de prueba y clonacion github
